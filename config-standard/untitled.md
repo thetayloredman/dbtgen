@@ -12,11 +12,17 @@ DBTGen generators look at `./DBTGen.config/` \(case **insensitive**\) for config
 
 {% tabs %}
 {% tab title="Windows" %}
-Open the Windows **Explorer**
+Open the Windows **Explorer** \(hint: it's where you usually make folders and such\) and open your bot's folder.
+
+Create a new folder called `DBTGen.config` \(make sure this is a FOLDER, not a file!\) and then you are all set to continue!
 {% endtab %}
 
 {% tab title="macOS" %}
+## From the Finder
 
+Open Finder, \(hint: it's where you usually make folders and such\) and open your bot's folder.
+
+`Ctrl`+Click in the space, and choose "New Folder" from the options that pop up. Name this folder `DBTGen.config`\(make sure this is a FOLDER, not a file!\) and then you are all set to continue!
 {% endtab %}
 
 {% tab title="Linux" %}
