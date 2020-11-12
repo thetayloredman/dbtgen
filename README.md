@@ -4,7 +4,6 @@ description: >-
   DBTGen files and the generators that use them.
 ---
 
-# Welcome to the DBDGen Documentation!
+# Welcome to the DBTGen Documentation!
 
-## Work In Progress
-
+## What is DBTGen?
