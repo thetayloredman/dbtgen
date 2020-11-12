@@ -6,3 +6,21 @@ description: >-
 
 # Making a base config setup
 
+## Creating a DBTGen Config directory
+
+DBTGen generators look at `./DBTGen.config/` \(case **insensitive**\) for configuration files.
+
+{% tabs %}
+{% tab title="Windows" %}
+Open the Windows **Explorer**
+{% endtab %}
+
+{% tab title="macOS" %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+{% endtab %}
+{% endtabs %}
+
