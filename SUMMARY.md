@@ -4,5 +4,5 @@
 
 ## Config Standard
 
-* [Untitled](config-standard/untitled.md)
+* [Making a base config setup](config-standard/untitled.md)
 
