@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Welcome to the DBDGen Documentation!](README.md)
+* [Welcome to the DBTGen Documentation!](README.md)
 
