@@ -26,7 +26,7 @@ Open Finder, \(hint: it's where you usually make folders and such\) and open you
 
 ## From Terminal
 
-Open Terminal, \(press `Command`+`Space` and type "Terminal"\) and then run `cd my/bot/folder`. If your folder contains a space, drag it from the Finder into the terminal after typing `cd ` \(note the extra space\). Then press enter and type
+Open Terminal, \(press `Command`+`Space` and type "Terminal"\) and then run `cd my/bot/folder`. If your folder contains a space, drag it from the Finder into the terminal after typing `cd` \(note the extra space\). Then press enter and type
 
 ```bash
 mkdir DBTGen.config
@@ -36,7 +36,9 @@ Then you are all set to continue!
 {% endtab %}
 
 {% tab title="Linux" %}
-
+## Come on, you know how to do this!
 {% endtab %}
 {% endtabs %}
+
+
 
